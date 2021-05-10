@@ -20,7 +20,7 @@ The next step was to test the functionality of the code both in VS Code and in I
 
 Here is a walkthrough video of E-Commerce's functionality:
 
-[E-Commerce Walkthrough Video]()
+[E-Commerce Walkthrough Video](https://drive.google.com/file/d/1XNYwUtE5PizBStap9x_OxSw5kP3CScgU/view)
 
 ## CONCLUSION
 
