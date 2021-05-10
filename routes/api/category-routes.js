@@ -53,10 +53,12 @@ router.put('/:id', (req, res) => {
         id: req.params.id,
       }
     });
+
     if (!categoryData[0]) {
       res.status(404).json({ message: 'No category with this id!' });
       return;
     };
+    
     res.status(200).json(categoryData);
   } catch (err) {
     res.status(500).json(err);
@@ -71,10 +73,12 @@ router.delete('/:id', (req, res) => {
         id: req.params.id,
       }
     });
+
     if (!categoryData) {
       res.status(404).json({ message: 'No category found with this id!' });
       return;
     };
+
     res.status(200).json(categoryData);
   } catch (err) {
     res.status(500).json(err);
