@@ -24,6 +24,9 @@ Here is a walkthrough video of E-Commerce's functionality:
 
 ## CONCLUSION
 
+This project showed me how invaluable it is to truly study the solutions to the activities outside of class. Back-end material has really stumped me most of the time, so I took the time to take notes and really study the mini project, as well as referencing the other activities for similarities/differences. 
+Because of this, it took me a lot longer to actually start coding, but once I started, my thoughts were better organized and the code flowed better. As a new coder, there is a tendency to want to go straight to coding and make apps work as fast as possible, and this was good practice in the organization that is necessary before the coding starts. 
+
 
 
 
